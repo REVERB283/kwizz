@@ -1,0 +1,49 @@
+{
+	"questions": [
+		{
+			"question_id": "683c14f8-b1e4-11ed-afa1-0242ac120002",
+			"question_text": "What is the capital city of France?",
+			"option_a": "London",
+			"option_b": "Madrid",
+			"option_c": "Paris",
+			"option_d": "Rome",
+			"correct_option": "Paris"
+		},
+		{
+			"question_id": "683c17b4-b1e4-11ed-afa1-0242ac120002",
+			"question_text": "What is the largest organ in the human body?",
+			"option_a": "Liver",
+			"option_b": "Brain",
+			"option_c": "Skin",
+			"option_d": "Heart",
+			"correct_option": "Skin"
+		},
+		{
+			"question_id": "683c1d5e-b1e4-11ed-afa1-0242ac120002",
+			"question_text": "What is the smallest planet in our solar system?",
+			"option_a": "Earth",
+			"option_b": "Jupiter",
+			"option_c": "Mars",
+			"option_d": "Mercury",
+			"correct_option": "Mercury"
+		},
+		{
+			"question_id": "683c1f48-b1e4-11ed-afa1-0242ac120002",
+			"question_text": "Who is the author of the Harry Potter series?",
+			"option_a": "J.K. Rowling",
+			"option_b": "Stephenie Meyer",
+			"option_c": "Suzanne Collins",
+			"option_d": "Veronica Roth",
+			"correct_option": "J.K. Rowling"
+		},
+		{
+			"question_id": "683c2088-b1e4-11ed-afa1-0242ac120002",
+			"question_text": "Who invented the telephone?",
+			"option_a": "Thomas Edison",
+			"option_b": "Alexander Graham Bell",
+			"option_c": "Isaac Newton",
+			"option_d": "Benjamin Franklin",
+			"correct_option": "Alexander Graham Bell"
+		}
+	]
+}

@@ -33,7 +33,7 @@ export function AuthProvider({ children }) {
 		return signOut(auth);
 	}
 
-	const value = { currentUser, signup, login, logout };
+	const value = { currentUser, setCurrentUser, signup, login, logout };
 
 	return <AuthContext.Provider value={value}>{isUser && children}</AuthContext.Provider>;
 }
